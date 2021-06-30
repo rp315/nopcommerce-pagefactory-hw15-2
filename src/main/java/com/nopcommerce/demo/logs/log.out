@@ -1,0 +1,6 @@
+2021-06-23 06:06:241 INFO  HomePage :45 - Mouse hover on computer tab element [[ChromeDriver: chrome on WINDOWS (6afc1bda8b6c3c6528f6383aadf4d13d)] -> xpath: (//a[@href='/computers'])[1]]
+2021-06-23 06:06:290 INFO  HomePage :63 - Getting text from computer sub product element [[ChromeDriver: chrome on WINDOWS (6afc1bda8b6c3c6528f6383aadf4d13d)] -> xpath: (//ul[@class='sublist first-level'])[1]//li]
+2021-06-23 06:06:316 INFO  HomePage :63 - Getting text from computer sub product element [[ChromeDriver: chrome on WINDOWS (6afc1bda8b6c3c6528f6383aadf4d13d)] -> xpath: (//ul[@class='sublist first-level'])[1]//li]
+2021-06-23 06:06:338 INFO  HomePage :63 - Getting text from computer sub product element [[ChromeDriver: chrome on WINDOWS (6afc1bda8b6c3c6528f6383aadf4d13d)] -> xpath: (//ul[@class='sublist first-level'])[1]//li]
+2021-06-23 06:06:881 INFO  HomePage :69 - Clicking computer sub menu product element [[ChromeDriver: chrome on WINDOWS (6afc1bda8b6c3c6528f6383aadf4d13d)] -> xpath: (//ul[@class='sublist first-level'])[1]//li]
+2021-06-23 06:06:947 INFO  ComputerPage :20 - Navigate to desktop page and verify navigated page welcome text [[ChromeDriver: chrome on WINDOWS (6afc1bda8b6c3c6528f6383aadf4d13d)] -> xpath: //h1[contains(text(),'Software')]]
